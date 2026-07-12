@@ -68,9 +68,9 @@ votemode = {}
 autoclean = []
 confirmer = {}
 
-START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/37vii3.jpg").split()
-HELP_IMG_URL = getenv("HELP_IMG_URL", "https://files.catbox.moe/u8ray8.jpg").split()
-PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/37vii3.jpg").split()
+START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/pjs3v7.jpg").split()
+HELP_IMG_URL = getenv("HELP_IMG_URL", "https://files.catbox.moe/xtt4v3.jpg").split()
+PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/2dv97a.png").split()
 
 PLAYLIST_IMG_URL = getenv("PLAYLIST_IMG_URL", "https://i.ibb.co/gL3ykkyh/play-music.jpg").split()
 STATS_IMG_URL = getenv("STATS_IMG_URL", "https://i.ibb.co/pBqPtFYn/statistics.jpg").split()
