@@ -19,8 +19,8 @@ BOT_LINK = getenv("BOT_LINK", "https://t.me/CLONNE_MUSIC_BOT?start=_tgr_QHn2CMQ5
 
 MONGO_DB_URI = getenv("MONGO_DB_URI")
 
-YTPROXY_URL = getenv("YTPROXY_URL", 'https://tgapi.xbitcode.com')
-YT_API_KEY = getenv("YT_API_KEY" , 'xbit_B4TNnBAoe6uoSM7NLFz-dk6X7GibJ6Bh')
+YTPROXY_URL = getenv("YTPROXY_URL", 'https://api.shrutibots.site')
+YT_API_KEY = getenv("YT_API_KEY" , 'ShrutiBotsj2rEdiXb50MK8hnK5xvy')
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 
